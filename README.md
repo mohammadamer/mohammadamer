@@ -4,3 +4,5 @@
 # Find me around the web:
 - Learning in public on <a href="https://twitter.com/Mohammad3mer" rel="nofollow">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/mohammad3mer" rel="nofollow">LinkedIn</a>
+
+[![Mohammad Amer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadamer)](https://github.com/anuraghazra/github-readme-stats)
