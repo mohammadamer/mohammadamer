@@ -1,10 +1,22 @@
 ## Hi, I'm Mohammad
-> I'm a software engineer who enjoys working with Microsoft's latest technologies, developing solutions that empower people and foster community. I have a solid background in .NET and SharePoint, as well as Microsoft 365, Azure and Microsoft Bot Framework. I have built highly customized applications for various industries and integrated them with different systems. I'm also a skilled solution lead who can work globally and motivate teams. I like to contribute to open source projects. I recently started blogging about SharePoint and Microsoft Teams development.
+> As a software engineer, I find great pleasure in leveraging Microsoft's cutting-edge technologies to create solutions that empower individuals and cultivate community engagement. With a strong foundation in .NET and SharePoint, along with expertise in Microsoft 365, Azure, and the Microsoft Bot Framework, I have developed a diverse skill set. My experience includes crafting highly tailored applications for diverse industries and seamlessly integrating them with various systems. As a proficient solution lead, I excel in global collaboration and team motivation. Moreover, I actively contribute to open source initiatives. Recently, I embarked on a blogging journey, focusing on SharePoint and Microsoft Teams development.
 
-## Find me around the web:
-### [![MyBlog](https://img.shields.io/badge/MyBlog-%230077B5.svg?logo=myblog&logoColor=black)](https://mohamadamer.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/Mohammad3mer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad3mer)
+
+## 🖋 Blogging
+
+<!--START_SECTION:feed-->
+* [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors](https://mohamadamer.com/posts/Ingest-M365-Roadmap-Content-in-Microsoft-365-Using-Microsoft-Graph-Connectors/;)
+* [Build a Microsoft Graph Search Teams message extension](https://mohamadamer.com/posts/Microsoft-Graph-Search-Teams-message-extension/;)
+* [Exploring Microsoft Graph Search API to query SharePoint data](https://mohamadamer.com/posts/Exploring-Microsoft-Graph-Search-API-to-query-SharePoint-data/;)
+* [Unleash SharePoint Extensibility using SharePoint Framework and MutationObserver API](https://mohamadamer.com/posts/SP-Extensibility-Using-SPFx-and-MutationObserver/)
+<!--END_SECTION:feed-->
+
+## 👀 Find out more about me
+- Email: m.amer@live.com
+- Twitter: [@Mohammad3mer](https://twitter.com/Mohammad3mer)
+- LinkedIn: [Linkedin.com/in/mohammad3mer](https://www.linkedin.com/in/mohammad3mer/)
+- Blog: [mohamadamer.com](https://mohamadamer.com/)
+
 
 ## GitHub Stats
 ### ![Mohammad Amer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadamer)
