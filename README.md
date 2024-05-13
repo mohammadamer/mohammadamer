@@ -11,6 +11,12 @@
 * [Unleash SharePoint Extensibility using SharePoint Framework and MutationObserver API](https://mohamadamer.com/posts/SP-Extensibility-Using-SPFx-and-MutationObserver/)
 <!--END_SECTION:feed-->
 
+## 🖋 Contribution
+
+<!--START_SECTION:feed-->
+* [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors using C# and .NET](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-graph-connector-dotnet-csharp-m365-roadmap/;)
+<!--END_SECTION:feed-->
+
 ## 👀 Find out more about me
 - Email: m.amer@live.com
 - Twitter: [@Mohammad3mer](https://twitter.com/Mohammad3mer)
