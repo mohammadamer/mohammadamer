@@ -5,16 +5,16 @@
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
-* [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors](https://mohamadamer.com/posts/Ingest-M365-Roadmap-Content-in-Microsoft-365-Using-Microsoft-Graph-Connectors/;)
-* [Build a Microsoft Graph Search Teams message extension](https://mohamadamer.com/posts/Microsoft-Graph-Search-Teams-message-extension/;)
-* [Exploring Microsoft Graph Search API to query SharePoint data](https://mohamadamer.com/posts/Exploring-Microsoft-Graph-Search-API-to-query-SharePoint-data/;)
+* [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors](https://mohamadamer.com/posts/Ingest-M365-Roadmap-Content-in-Microsoft-365-Using-Microsoft-Graph-Connectors/)
+* [Build a Microsoft Graph Search Teams message extension](https://mohamadamer.com/posts/Microsoft-Graph-Search-Teams-message-extension/)
+* [Exploring Microsoft Graph Search API to query SharePoint data](https://mohamadamer.com/posts/Exploring-Microsoft-Graph-Search-API-to-query-SharePoint-data/)
 * [Unleash SharePoint Extensibility using SharePoint Framework and MutationObserver API](https://mohamadamer.com/posts/SP-Extensibility-Using-SPFx-and-MutationObserver/)
 <!--END_SECTION:feed-->
 
 ## 🖋 Contribution
 
 <!--START_SECTION:feed-->
-* [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors using C# and .NET](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-graph-connector-dotnet-csharp-m365-roadmap/;)
+* [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors using C# and .NET](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-graph-connector-dotnet-csharp-m365-roadmap/)
 <!--END_SECTION:feed-->
 
 ## 👀 Find out more about me
