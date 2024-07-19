@@ -1,6 +1,7 @@
 ## Hi, I'm Mohammad
 > As a software engineer, I find great pleasure in leveraging Microsoft's cutting-edge technologies to create solutions that empower individuals and cultivate community engagement. With a strong foundation in .NET and SharePoint, along with expertise in Microsoft 365, Azure, and the Microsoft Bot Framework, I have developed a diverse skill set. My experience includes crafting highly tailored applications for diverse industries and seamlessly integrating them with various systems. As a proficient solution lead, I excel in global collaboration and team motivation. Moreover, I actively contribute to open source initiatives. Recently, I embarked on a blogging journey, focusing on SharePoint and Microsoft Teams development.
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=mohammadamer&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ## 🖋 Blogging
 
@@ -22,6 +23,7 @@
 - Twitter: [@Mohammad3mer](https://twitter.com/Mohammad3mer)
 - LinkedIn: [Linkedin.com/in/mohammad3mer](https://www.linkedin.com/in/mohammad3mer/)
 - Blog: [mohamadamer.com](https://mohamadamer.com/)
+
 
 
 ## GitHub Stats
