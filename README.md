@@ -6,6 +6,7 @@
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Integrate a custom Copilot into the SharePoint Search Page](https://mohamadamer.com/posts/Integrating-a-custom-copilot-into-the-SharePoint-Search-Page/)
 * [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors](https://mohamadamer.com/posts/Ingest-M365-Roadmap-Content-in-Microsoft-365-Using-Microsoft-Graph-Connectors/)
 * [Build a Microsoft Graph Search Teams message extension](https://mohamadamer.com/posts/Microsoft-Graph-Search-Teams-message-extension/)
 * [Exploring Microsoft Graph Search API to query SharePoint data](https://mohamadamer.com/posts/Exploring-Microsoft-Graph-Search-API-to-query-SharePoint-data/)
