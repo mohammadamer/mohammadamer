@@ -6,11 +6,11 @@
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
-* [Integrate a custom Copilot into the SharePoint Search Page](https://mohamadamer.com/posts/Integrating-a-custom-copilot-into-the-SharePoint-Search-Page/)
-* [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors](https://mohamadamer.com/posts/Ingest-M365-Roadmap-Content-in-Microsoft-365-Using-Microsoft-Graph-Connectors/)
-* [Build a Microsoft Graph Search Teams message extension](https://mohamadamer.com/posts/Microsoft-Graph-Search-Teams-message-extension/)
-* [Exploring Microsoft Graph Search API to query SharePoint data](https://mohamadamer.com/posts/Exploring-Microsoft-Graph-Search-API-to-query-SharePoint-data/)
-* [Unleash SharePoint Extensibility using SharePoint Framework and MutationObserver API](https://mohamadamer.com/posts/SP-Extensibility-Using-SPFx-and-MutationObserver/)
+* [Integrate a custom Copilot into the SharePoint Search Page](https://mohamadamer.com/blog/microsoft365/2024-08-06-Integrating-a-custom-copilot-into-the-SharePoint-Search-Page/)
+* [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors](https://mohamadamer.com/blog/microsoft365/2024-02-18-Ingest-M365-Roadmap-Content-in-Microsoft-365-Using-Microsoft-Graph-Connectors/)
+* [Build a Microsoft Graph Search Teams message extension](https://mohamadamer.com/blog/microsoft365/2024-01-16-Microsoft-Graph-Search-Teams-message-extension/)
+* [Exploring Microsoft Graph Search API to query SharePoint data](https://mohamadamer.com/blog/microsoft365/2023-12-02-Exploring-Microsoft-Graph-Search-API-to-query-SharePoint-data/)
+* [Unleash SharePoint Extensibility using SharePoint Framework and MutationObserver API](https://mohamadamer.com/blog/microsoft365/2023-08-08-SP-Extensibility-Using-SPFx-and-MutationObserver/)
 <!--END_SECTION:feed-->
 
 ## 🖋 My Microsoft 365 Community Contributions
