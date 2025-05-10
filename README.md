@@ -33,11 +33,13 @@ With deep expertise in **SPFx, Microsoft Graph, Azure Functions, Teams Toolkit**
 
 ## 📌 Featured Projects
 
-* 🧩 [msg ext graph search](https://github.com/mohammadamer/msgext-graph-search)
-* 🧩 [Graph Connector M365 Roadmap](https://github.com/mohammadamer/GraphConnectorM365RoadMap)
-* 🧩 [copilot in search page](https://github.com/mohammadamer/copilot-in-search-page)
-* 🧩 [M365 Roadmap Features Tracker declarative agent](https://github.com/mohammadamer/m365-roadmap-features-tracker-da-agent)
+* 🧩 [Visual Mind declarative agent](https://github.com/mohammadamer/da-visual-mind-agent)
+* 🧩 [Star Match Game](https://github.com/mohammadamer/react-start-match)
 * 🧩 [SharePoint Agents Finder declarative agent](https://github.com/mohammadamer/da-sharepoint-agents-finder)
+* 🧩 [M365 Roadmap Features Tracker declarative agent](https://github.com/mohammadamer/m365-roadmap-features-tracker-da-agent)
+* 🧩 [Copilot Agent in Search Page](https://github.com/mohammadamer/copilot-in-search-page)
+* 🧩 [Graph Connector M365 Roadmap](https://github.com/mohammadamer/GraphConnectorM365RoadMap)
+* 🧩 [Graph Search Message Extension](https://github.com/mohammadamer/msgext-graph-search)
 ---
 
 ## 🔗 Connect With Me
