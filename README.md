@@ -34,7 +34,7 @@ With deep expertise in **SPFx, Microsoft Graph, Azure Functions, Teams Toolkit**
 ## 📌 Featured Projects
 
 * 🧩 [Visual Mind declarative agent](https://github.com/mohammadamer/da-visual-mind-agent)
-* 🧩 [Star Match Game](https://github.com/mohammadamer/react-start-match)
+* 🧩 [Star Match Game](https://github.com/mohammadamer/react-star-match)
 * 🧩 [SharePoint Agents Finder declarative agent](https://github.com/mohammadamer/da-sharepoint-agents-finder)
 * 🧩 [M365 Roadmap Features Tracker declarative agent](https://github.com/mohammadamer/m365-roadmap-features-tracker-da-agent)
 * 🧩 [Copilot Agent in Search Page](https://github.com/mohammadamer/copilot-in-search-page)
