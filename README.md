@@ -2,11 +2,12 @@
 
 > 🎯 **Microsoft 365 Developer | Microsoft MVP | Open Source Contributor**
 
-I'm passionate about building impactful solutions using Microsoft's modern technologies. My journey began in 2009 as a .NET and SharePoint developer, and over the years, I’ve evolved into a seasoned Microsoft 365 and Azure solutions developer.
+I'm a M365 Solution Developer and Architect. My tech journey began in 2009 as a .NET and SharePoint developer, laying the groundwork for my passion for creating business-empowering solutions. Over the years, I’ve honed my skills in SharePoint and Azure backend development, building robust applications that drive productivity and collaboration.
 
-With deep expertise in **SPFx, Microsoft Graph, Azure Functions, Teams Toolkit**, and the **Microsoft Bot Framework**, I create tailored digital experiences that empower users and drive collaboration. I enjoy contributing to open-source projects and actively share my learnings through blog posts, demos, and speaking engagements.
+Currently, my focus revolves around modern client-side development with SPFx, along with harnessing the power of Microsoft Azure, Microsoft Teams, Microsoft Graph development and recently Microsoft 365 Copilot development. 
+This ongoing journey of learning and growth fuels my passion for sharing knowledge and helping others navigate the evolving Microsoft 365 ecosystem.
 
-🏅 Proud to be a [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/70c07471-e35b-4100-97de-5df691ed2b24)
+🏅 I'm honored to be recognized as a [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/70c07471-e35b-4100-97de-5df691ed2b24) in the M365 Development category — a testament to my dedication to community contributions and innovation.
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=mohammadamer&repo=github-visitors-badge&countColor=%237B1E7A)
 
