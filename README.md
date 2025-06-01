@@ -34,13 +34,17 @@ This ongoing journey of learning and growth fuels my passion for sharing knowled
 
 ## 📌 Featured Projects
 
+* 🧩 [QandA app built with React Typescript and dotnet core 8](https://github.com/mohammadamer/QandA)
 * 🧩 [Visual Mind declarative agent](https://github.com/mohammadamer/da-visual-mind-agent)
 * 🧩 [Star Match Game](https://github.com/mohammadamer/react-star-match)
 * 🧩 [SharePoint Agents Finder declarative agent](https://github.com/mohammadamer/da-sharepoint-agents-finder)
 * 🧩 [M365 Roadmap Features Tracker declarative agent](https://github.com/mohammadamer/m365-roadmap-features-tracker-da-agent)
 * 🧩 [Copilot Agent in Search Page](https://github.com/mohammadamer/copilot-in-search-page)
-* 🧩 [Graph Connector M365 Roadmap](https://github.com/mohammadamer/GraphConnectorM365RoadMap)
-* 🧩 [Graph Search Message Extension](https://github.com/mohammadamer/msgext-graph-search)
+* 🧩 [SharePoint Pages Automated Translation Azure Function App](https://github.com/mohammadamer/SharePointPagesTranslation)
+* 🧩 [PowerShell to Call the Microsoft Graph Search API and Export Results to CSV](https://github.com/mohammadamer/powershell-ms-graph-search-api)
+* 🧩 [M365 Roadmap Graph Connector Azure Function App](https://github.com/mohammadamer/GraphConnectorFunction)
+* 🧩 [Graph Connector M365 Roadmap Console App](https://github.com/mohammadamer/GraphConnectorM365RoadMap)
+* 🧩 [Graph Search Teams Message Extension](https://github.com/mohammadamer/msgext-graph-search)
 ---
 
 ## 🔗 Connect With Me
