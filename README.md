@@ -17,7 +17,8 @@ This ongoing journey of learning and growth fuels my passion for sharing knowled
 
 <!--START_SECTION:feed-->
 * [Build a M365 Roadmap Features Tracker Declarative Agent](https://mohamadamer.com/blog/microsoft365/2025-02-19-Build-M365-Roadmap-Features-Tracker-Declarative-Agent/)
-* [SPFx Library Components: Solving Development Challenges in SharePoint Framework](https://mohamadamer.com/blog/microsoft365/2025-01-02-SPFx-Library-Components-Solving-Development-Challenges-in-SharePoint-Framework/)
+* [SPFx Library Components: Solving Development Challenges in SharePoint Framework](https://mohamadamer.com/blog/microsoft365/2024-11-10-Using-PowerShell-to-Call-the-Microsoft-Graph-Search-API/)
+* [Using PowerShell to Call Microsoft Graph Search API and Export Results to CSV](https://mohamadamer.com/blog/microsoft365/2025-01-02-SPFx-Library-Components-Solving-Development-Challenges-in-SharePoint-Framework/)
 * [Integrate a custom Copilot into the SharePoint Search Page](https://mohamadamer.com/blog/microsoft365/2024-08-06-Integrating-a-custom-copilot-into-the-SharePoint-Search-Page/)
 * [Ingest M365 Roadmap content in Microsoft 365 using Microsoft Graph connectors](https://mohamadamer.com/blog/microsoft365/2024-02-18-Ingest-M365-Roadmap-Content-in-Microsoft-365-Using-Microsoft-Graph-Connectors/)
 * [Build a Microsoft Graph Search Teams message extension](https://mohamadamer.com/blog/microsoft365/2024-01-16-Microsoft-Graph-Search-Teams-message-extension/)
