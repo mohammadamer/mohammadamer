@@ -16,6 +16,7 @@ This ongoing journey of learning and growth fuels my passion for sharing knowled
 ## ✍️ Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Build SharePoint Agents Finder declarative agent](https://mohamadamer.com/blog/microsoft365/2025-06-17-Build-SharePoint-Agents-Finder-Declarative-Agent/)
 * [Build a M365 Roadmap Features Tracker Declarative Agent](https://mohamadamer.com/blog/microsoft365/2025-02-19-Build-M365-Roadmap-Features-Tracker-Declarative-Agent/)
 * [SPFx Library Components: Solving Development Challenges in SharePoint Framework](https://mohamadamer.com/blog/microsoft365/2024-11-10-Using-PowerShell-to-Call-the-Microsoft-Graph-Search-API/)
 * [Using PowerShell to Call Microsoft Graph Search API and Export Results to CSV](https://mohamadamer.com/blog/microsoft365/2025-01-02-SPFx-Library-Components-Solving-Development-Challenges-in-SharePoint-Framework/)
