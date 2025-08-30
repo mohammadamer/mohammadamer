@@ -1,13 +1,15 @@
 # Hi, I'm Mohammad 👋 🚴🏃 💻
 
-> 🎯 **Microsoft 365 Developer | Microsoft MVP | Open Source Contributor**
+> 🎯 **Microsoft .NET & 365 Developer | Microsoft MVP | Open Source Contributor**
 
-I'm a M365 Solution Developer and Architect. My tech journey began in 2009 as a .NET and SharePoint developer, laying the groundwork for my passion for creating business-empowering solutions. Over the years, I’ve honed my skills in SharePoint and Azure backend development, building robust applications that drive productivity and collaboration.
+ I am experienced .NET & Azure Solution Architect with over ten years of experience designing and delivering enterprise solutions using .NET, Microsoft 365, and Azure. My background spans SharePoint implementations, Microsoft Teams and SharePoint Framework (SPFx) development, and modern cloud-first architectures that align with enterprise strategies and security requirements.
 
-Currently, my focus revolves around modern client-side development with SPFx, along with harnessing the power of Microsoft Azure, Microsoft Teams, Microsoft Graph development and recently Microsoft 365 Copilot development. 
-This ongoing journey of learning and growth fuels my passion for sharing knowledge and helping others navigate the evolving Microsoft 365 ecosystem.
+I am passionate about leveraging Microsoft’s ecosystem including Azure services and Microsoft 365—to create scalable, secure, and business-aligned solutions that empower organizations and enhance collaboration. My expertise includes integrating CRM, productivity, and communication platforms, as well as designing architecture artifacts that support enterprise roadmaps.
 
-🏅 I'm honored to be recognized as a [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/70c07471-e35b-4100-97de-5df691ed2b24) in the M365 Development category — a testament to my dedication to community contributions and innovation.
+In addition to solution design, I have led a team of developers, facilitated cross-functional collaboration, and communicated architecture decisions to both technical and business stakeholders. I am deeply engaged in the Microsoft 365 community, actively contributing to open-source initiatives and sharing knowledge through blogging and showing cases on Microsoft 365, SharePoint and Teams development.
+                    
+🏅I’m proud to be recognized as a [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/70c07471-e35b-4100-97de-5df691ed2b24) in M365 Development, reflecting my commitment to driving 
+innovation and actively contributing to the community.
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=mohammadamer&repo=github-visitors-badge&countColor=%237B1E7A)
 
