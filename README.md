@@ -63,7 +63,12 @@ innovation and actively contributing to the community.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadamer&show_icons=true&theme=radical)
+
+---
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammadamer&theme=radical)
+
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadamer&layout=compact&theme=radical)
 
 ---
