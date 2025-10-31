@@ -18,6 +18,7 @@ innovation and actively contributing to the community.
 ## ✍️ Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Level up SharePoint SPFx Projects with Vitest Unit Testing](https://mohamadamer.com/blog/microsoft365/2025-10-30-Level-up-SharePoint-SPFx-Projects-with-Vitest-Unit-Testing/)
 * [Build SharePoint Agents Finder declarative agent](https://mohamadamer.com/blog/microsoft365/2025-06-17-Build-SharePoint-Agents-Finder-Declarative-Agent/)
 * [Build a M365 Roadmap Features Tracker Declarative Agent](https://mohamadamer.com/blog/microsoft365/2025-02-19-Build-M365-Roadmap-Features-Tracker-Declarative-Agent/)
 * [SPFx Library Components: Solving Development Challenges in SharePoint Framework](https://mohamadamer.com/blog/microsoft365/2024-11-10-Using-PowerShell-to-Call-the-Microsoft-Graph-Search-API/)
@@ -37,7 +38,7 @@ innovation and actively contributing to the community.
 ---
 
 ## 📌 Featured Projects
-
+* 🧩 [Level up SharePoint SPFx Projects with Vitest Unit Testing](https://github.com/mohammadamer/spfx-testing-vitest)
 * 🧩 [QandA app built with React Typescript and dotnet core 8](https://github.com/mohammadamer/QandA)
 * 🧩 [Visual Mind declarative agent](https://github.com/mohammadamer/da-visual-mind-agent)
 * 🧩 [Star Match Game](https://github.com/mohammadamer/react-star-match)
