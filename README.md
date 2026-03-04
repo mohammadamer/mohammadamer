@@ -38,6 +38,7 @@ innovation and actively contributing to the community.
 ---
 
 ## 📌 Featured Projects
+* 🧩 [QuickMark VS Code extension]([https://github.com/mohammadamer/spfx-testing-vitest](https://github.com/mohammadamer/QuickMark))
 * 🧩 [Level up SharePoint SPFx Projects with Vitest Unit Testing](https://github.com/mohammadamer/spfx-testing-vitest)
 * 🧩 [QandA app built with React Typescript and dotnet core 8](https://github.com/mohammadamer/QandA)
 * 🧩 [Visual Mind declarative agent](https://github.com/mohammadamer/da-visual-mind-agent)
